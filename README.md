@@ -6,7 +6,7 @@ I am a Software Engineer that is currently building webapps and creating new pro
 
 ## Current Project
 
-Currently working on a web app that was designed by Frontend Mentor. The name of the site is nDesigno and it is a pretty expansive site with multiple pages. It is built to be responsive through all screen sizes and have lots of media.
+Currently working on a web app that was designed by Frontend Mentor. The name of the site is Designo and it is a pretty expansive site with multiple pages. It is built to be responsive through all screen sizes and have lots of media.
 
 [Designo WebApp Repository](https://github.com/edgarcgriffinjr/designo-website)
 
